@@ -1,0 +1,14 @@
+{
+  "name": "circle",
+  "pages_build_output_dir": ".svelte-kit/cloudflare",
+  "compatibility_date": "2025-03-06",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+  // "kv_namespaces": [
+  //   {
+  //     "binding": "KV",
+  //     "id": "<NAMESPACE_ID>"
+  //   }
+  // ]
+}
